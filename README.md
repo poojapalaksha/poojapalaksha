@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Pooja<br>🎓 4th-year Computer Science and Engineering student<br>💻 Skilled in C, Java, and Frontend Development<br>🚀 Passionate about building practical and impactful applications<br>📚 Strong foundation in core CS concepts with a curiosity for new technologies<br>✨ Always eager to learn, collaborate, and create something meaningful!
+👋 Hi, I’m Pooja<br>🎓 4th-year Computer Science and Engineering student<br>💻 Skilled in Python, Java, and Frontend Development<br>🚀 Passionate about building practical and impactful applications<br>📚 Strong foundation in core CS concepts with a curiosity for new technologies<br>✨ Always eager to learn, collaborate, and create something meaningful!
 
 
 ## 🌐 Socials:
